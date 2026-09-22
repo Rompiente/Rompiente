@@ -70,7 +70,7 @@ A fan-made Final Fantasy website focused on frontend development and responsive 
 ## Contact
 
 - GitHub: [@Rompiente](https://github.com/Rompiente)
-- LinkedIn: [Gabriel Flores](https://www.linkedin.com/)
+- LinkedIn: [Gabriel Flores](https://www.linkedin.com/in/gabrielmmflores/)
 
 <!--
 **Rompiente/Rompiente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
